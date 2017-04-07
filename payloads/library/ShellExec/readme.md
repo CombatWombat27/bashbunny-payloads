@@ -12,7 +12,7 @@ hooks.
 
 ## Configuration
 
-evil.py - script that is fetched with DuckyScript 
+evil.sh - script that is fetched with DuckyScript 
 (provided script opens a web page that serves a BeEF hook )
 
 hook.js - the aforementioned BeEF hook
